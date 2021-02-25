@@ -8,4 +8,4 @@
 
 * [import-vue2](./src/import-vue2.vue)，主要用于处理部分vue2插件，使之能让其直接被vue3使用。
 
-* [v-tooltip](./src/v-tooltip.js)，基于element-plus的Popover组件改造而成的vue指令，仅支持vue3。
+* [v-tooltip](./src/v-tooltip.tsx)，基于element-plus的Popover组件改造而成的vue指令，仅支持vue3。
